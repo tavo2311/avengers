@@ -1,2 +1,3 @@
-#Misiones 
-*investigar
+# Misiones 
+* investigar
+* capturar

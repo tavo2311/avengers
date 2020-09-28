@@ -2,4 +2,3 @@
 
 * redscull
 * dom
-* Capitán America
